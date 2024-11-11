@@ -35,6 +35,5 @@
 
 **Contato**
 
-- **Telefone:** (insira o número)
-- **E-mail:** (insira o e-mail)
-- **LinkedIn:** [linkedin.com/in/eder_tashiro](insira o link)
+- **Telefone:** (13) 98870-5073
+- **E-mail:** eder.rgt@gmail.comgit add eder_tashiro.md
